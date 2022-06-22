@@ -1,4 +1,4 @@
 # git_coure
 
-##ghjkl
+## ghjkl
 this is the git course project
